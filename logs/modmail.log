@@ -1,0 +1,602 @@
+2025-11-26 06:35:15 core.models[324] - INFO: Discord logging level: INFO.
+2025-11-26 06:35:15 __main__[173] - INFO: -------------------------
+2025-11-26 06:35:15 __main__[174] - INFO: â”Œâ”¬â”â”Œâ”€â”â”Œâ”¬â”â”Œâ”¬â”â”Œâ”€â”â”¬â”¬
+2025-11-26 06:35:15 __main__[175] - INFO: â”‚â”‚â”‚â”‚ â”‚ â”‚â”‚â”‚â”‚â”‚â”œâ”€â”¤â”‚â”‚
+2025-11-26 06:35:15 __main__[176] - INFO: â”´ â”´â””â”€â”˜â”€â”´â”˜â”´ â”´â”´ â”´â”´â”´â”€â”˜
+2025-11-26 06:35:15 __main__[177] - INFO: v4.2.0
+2025-11-26 06:35:15 __main__[178] - INFO: Authors: kyb3r, fourjr, Taaku18
+2025-11-26 06:35:15 __main__[179] - INFO: -------------------------
+2025-11-26 06:35:15 __main__[180] - INFO: discord.py: v2.6.3
+2025-11-26 06:35:15 __main__[181] - INFO: -------------------------
+2025-11-26 06:35:15 __main__[226] - INFO: Starting bot without presence intent.
+2025-11-26 06:35:15 discord.client[666] - INFO: logging in using static token
+2025-11-26 06:35:16 __main__[235] - CRITICAL: Invalid token
+2025-11-26 06:35:16 __main__[278] - INFO: Cleaning up tasks.
+2025-11-26 06:35:16 __main__[284] - INFO: Closing the event loop.
+2025-11-26 06:37:13 core.models[324] - INFO: Discord logging level: INFO.
+2025-11-26 06:37:13 __main__[173] - INFO: -------------------------
+2025-11-26 06:37:13 __main__[174] - INFO: â”Œâ”¬â”â”Œâ”€â”â”Œâ”¬â”â”Œâ”¬â”â”Œâ”€â”â”¬â”¬
+2025-11-26 06:37:13 __main__[175] - INFO: â”‚â”‚â”‚â”‚ â”‚ â”‚â”‚â”‚â”‚â”‚â”œâ”€â”¤â”‚â”‚
+2025-11-26 06:37:13 __main__[176] - INFO: â”´ â”´â””â”€â”˜â”€â”´â”˜â”´ â”´â”´ â”´â”´â”´â”€â”˜
+2025-11-26 06:37:13 __main__[177] - INFO: v4.2.0
+2025-11-26 06:37:13 __main__[178] - INFO: Authors: kyb3r, fourjr, Taaku18
+2025-11-26 06:37:13 __main__[179] - INFO: -------------------------
+2025-11-26 06:37:13 __main__[180] - INFO: discord.py: v2.6.3
+2025-11-26 06:37:13 __main__[181] - INFO: -------------------------
+2025-11-26 06:37:13 __main__[226] - INFO: Starting bot without presence intent.
+2025-11-26 06:37:13 discord.client[666] - INFO: logging in using static token
+2025-11-26 06:37:14 discord.gateway[570] - INFO: Shard ID None has connected to Gateway (Session ID: b56de7f6fc66acf34e539714a5099919).
+2025-11-26 06:37:14 core.clients[442] - WARNING: You're using the old config MONGO_URI, consider switching to the new CONNECTION_URI config.
+2025-11-26 06:37:16 cogs.utility[638] - INFO: -------------------------
+2025-11-26 06:37:16 cogs.utility[649] - INFO: No activity has been set.
+2025-11-26 06:37:16 cogs.utility[654] - INFO: No status has been set.
+2025-11-26 06:37:16 __main__[535] - INFO: -------------------------
+2025-11-26 06:37:16 __main__[537] - INFO: Logged in as: OwlMail#2978
+2025-11-26 06:37:16 __main__[538] - INFO: Bot ID: 1443158095588229150
+2025-11-26 06:37:16 __main__[542] - INFO: Owners: vapingpixie
+2025-11-26 06:37:16 __main__[543] - INFO: Prefix: ?
+2025-11-26 06:37:16 __main__[544] - INFO: Guild Name: Pixie's Games
+2025-11-26 06:37:16 __main__[545] - INFO: Guild ID: 684558701721419779
+2025-11-26 06:37:16 __main__[548] - INFO: -------------------------
+2025-11-26 06:37:16 __main__[561] - INFO: There are 0 thread(s) pending to be closed.
+2025-11-26 06:37:16 __main__[562] - INFO: -------------------------
+2025-11-26 06:42:57 core.models[324] - INFO: Discord logging level: INFO.
+2025-11-26 06:42:57 __main__[173] - INFO: -------------------------
+2025-11-26 06:42:57 __main__[174] - INFO: â”Œâ”¬â”â”Œâ”€â”â”Œâ”¬â”â”Œâ”¬â”â”Œâ”€â”â”¬â”¬
+2025-11-26 06:42:57 __main__[175] - INFO: â”‚â”‚â”‚â”‚ â”‚ â”‚â”‚â”‚â”‚â”‚â”œâ”€â”¤â”‚â”‚
+2025-11-26 06:42:57 __main__[176] - INFO: â”´ â”´â””â”€â”˜â”€â”´â”˜â”´ â”´â”´ â”´â”´â”´â”€â”˜
+2025-11-26 06:42:57 __main__[177] - INFO: v4.2.0
+2025-11-26 06:42:57 __main__[178] - INFO: Authors: kyb3r, fourjr, Taaku18
+2025-11-26 06:42:57 __main__[179] - INFO: -------------------------
+2025-11-26 06:42:57 __main__[180] - INFO: discord.py: v2.6.3
+2025-11-26 06:42:57 __main__[181] - INFO: -------------------------
+2025-11-26 06:42:57 __main__[226] - INFO: Starting bot without presence intent.
+2025-11-26 06:42:57 discord.client[666] - INFO: logging in using static token
+2025-11-26 06:42:58 discord.gateway[570] - INFO: Shard ID None has connected to Gateway (Session ID: 9faa6e3c8925d58b38e439f1b05d84da).
+2025-11-26 06:42:58 core.clients[442] - WARNING: You're using the old config MONGO_URI, consider switching to the new CONNECTION_URI config.
+2025-11-26 06:43:00 cogs.utility[638] - INFO: -------------------------
+2025-11-26 06:43:00 cogs.utility[649] - INFO: No activity has been set.
+2025-11-26 06:43:00 cogs.utility[654] - INFO: No status has been set.
+2025-11-26 06:43:00 __main__[535] - INFO: -------------------------
+2025-11-26 06:43:00 __main__[537] - INFO: Logged in as: OwlMail#2978
+2025-11-26 06:43:00 __main__[538] - INFO: Bot ID: 1443158095588229150
+2025-11-26 06:43:00 __main__[542] - INFO: Owners: vapingpixie
+2025-11-26 06:43:00 __main__[543] - INFO: Prefix: ?
+2025-11-26 06:43:00 __main__[544] - INFO: Guild Name: Pixie's Games
+2025-11-26 06:43:00 __main__[545] - INFO: Guild ID: 684558701721419779
+2025-11-26 06:43:00 __main__[548] - INFO: -------------------------
+2025-11-26 06:43:00 __main__[561] - INFO: There are 0 thread(s) pending to be closed.
+2025-11-26 06:43:00 __main__[562] - INFO: -------------------------
+2025-11-26 06:43:23 __main__[1714] - ERROR: Ignoring exception in on_message.
+2025-11-26 06:43:23 __main__[1715] - ERROR: Unexpected exception:
+Traceback (most recent call last):
+  File "C:\Users\vapin\AppData\Roaming\Python\Python310\site-packages\discord\client.py", line 504, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Owlmail\bot.py", line 1318, in on_message
+    await message.delete()
+  File "C:\Users\vapin\AppData\Roaming\Python\Python310\site-packages\discord\message.py", line 1308, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "C:\Users\vapin\AppData\Roaming\Python\Python310\site-packages\discord\http.py", line 769, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+2025-11-26 06:43:24 __main__[1714] - ERROR: Ignoring exception in on_message.
+2025-11-26 06:43:24 __main__[1715] - ERROR: Unexpected exception:
+Traceback (most recent call last):
+  File "C:\Users\vapin\AppData\Roaming\Python\Python310\site-packages\discord\client.py", line 504, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Owlmail\bot.py", line 1318, in on_message
+    await message.delete()
+  File "C:\Users\vapin\AppData\Roaming\Python\Python310\site-packages\discord\message.py", line 1308, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "C:\Users\vapin\AppData\Roaming\Python\Python310\site-packages\discord\http.py", line 769, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+2025-11-26 06:43:29 __main__[1765] - ERROR: Unexpected exception:
+Traceback (most recent call last):
+  File "C:\Users\vapin\AppData\Roaming\Python\Python310\site-packages\discord\ext\commands\core.py", line 266, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "E:\Owlmail\cogs\modmail.py", line 1718, in contact
+    await ctx.message.delete()
+  File "C:\Users\vapin\AppData\Roaming\Python\Python310\site-packages\discord\message.py", line 1308, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "C:\Users\vapin\AppData\Roaming\Python\Python310\site-packages\discord\http.py", line 769, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\vapin\AppData\Roaming\Python\Python310\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\vapin\AppData\Roaming\Python\Python310\site-packages\discord\ext\commands\core.py", line 1064, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Users\vapin\AppData\Roaming\Python\Python310\site-packages\discord\ext\commands\core.py", line 275, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NotFound: 404 Not Found (error code: 10008): Unknown Message
+2025-11-26 06:43:42 core.thread[1451] - WARNING: Cannot delete message: 404 Not Found (error code: 10008): Unknown Message.
+2025-11-26 06:45:30 __main__[276] - INFO: Received signal to terminate bot and event loop.
+2025-11-26 06:45:30 __main__[278] - INFO: Cleaning up tasks.
+2025-11-26 06:45:30 __main__[284] - INFO: Closing the event loop.
+2025-11-26 06:49:37 core.models[324] - INFO: Discord logging level: INFO.
+2025-11-26 06:49:37 __main__[173] - INFO: -------------------------
+2025-11-26 06:49:37 __main__[174] - INFO: â”Œâ”¬â”â”Œâ”€â”â”Œâ”¬â”â”Œâ”¬â”â”Œâ”€â”â”¬â”¬
+2025-11-26 06:49:37 __main__[175] - INFO: â”‚â”‚â”‚â”‚ â”‚ â”‚â”‚â”‚â”‚â”‚â”œâ”€â”¤â”‚â”‚
+2025-11-26 06:49:37 __main__[176] - INFO: â”´ â”´â””â”€â”˜â”€â”´â”˜â”´ â”´â”´ â”´â”´â”´â”€â”˜
+2025-11-26 06:49:37 __main__[177] - INFO: v4.2.0
+2025-11-26 06:49:37 __main__[178] - INFO: Authors: kyb3r, fourjr, Taaku18
+2025-11-26 06:49:37 __main__[179] - INFO: -------------------------
+2025-11-26 06:49:37 __main__[180] - INFO: discord.py: v2.6.3
+2025-11-26 06:49:37 __main__[181] - INFO: -------------------------
+2025-11-26 06:49:37 __main__[226] - INFO: Starting bot without presence intent.
+2025-11-26 06:49:37 discord.client[666] - INFO: logging in using static token
+2025-11-26 06:49:38 discord.gateway[570] - INFO: Shard ID None has connected to Gateway (Session ID: 48ff9f823423caef29e7a99cfcfc2983).
+2025-11-26 06:49:38 core.clients[442] - WARNING: You're using the old config MONGO_URI, consider switching to the new CONNECTION_URI config.
+2025-11-26 06:49:40 cogs.utility[638] - INFO: -------------------------
+2025-11-26 06:49:40 cogs.utility[649] - INFO: No activity has been set.
+2025-11-26 06:49:40 cogs.utility[654] - INFO: No status has been set.
+2025-11-26 06:49:40 __main__[535] - INFO: -------------------------
+2025-11-26 06:49:40 __main__[537] - INFO: Logged in as: OwlMail#2978
+2025-11-26 06:49:40 __main__[538] - INFO: Bot ID: 1443158095588229150
+2025-11-26 06:49:40 __main__[542] - INFO: Owners: vapingpixie
+2025-11-26 06:49:40 __main__[543] - INFO: Prefix: ?
+2025-11-26 06:49:40 __main__[544] - INFO: Guild Name: Pixie's Games
+2025-11-26 06:49:40 __main__[545] - INFO: Guild ID: 684558701721419779
+2025-11-26 06:49:40 __main__[548] - INFO: -------------------------
+2025-11-26 06:49:40 __main__[561] - INFO: There are 0 thread(s) pending to be closed.
+2025-11-26 06:49:40 __main__[562] - INFO: -------------------------
+2025-11-26 06:50:46 __main__[276] - INFO: Received signal to terminate bot and event loop.
+2025-11-26 06:50:46 __main__[278] - INFO: Cleaning up tasks.
+2025-11-26 06:50:46 __main__[284] - INFO: Closing the event loop.
+2025-11-26 06:59:23 core.models[324] - INFO: Discord logging level: INFO.
+2025-11-26 06:59:23 __main__[173] - INFO: -------------------------
+2025-11-26 06:59:23 __main__[174] - INFO: â”Œâ”¬â”â”Œâ”€â”â”Œâ”¬â”â”Œâ”¬â”â”Œâ”€â”â”¬â”¬
+2025-11-26 06:59:23 __main__[175] - INFO: â”‚â”‚â”‚â”‚ â”‚ â”‚â”‚â”‚â”‚â”‚â”œâ”€â”¤â”‚â”‚
+2025-11-26 06:59:23 __main__[176] - INFO: â”´ â”´â””â”€â”˜â”€â”´â”˜â”´ â”´â”´ â”´â”´â”´â”€â”˜
+2025-11-26 06:59:23 __main__[177] - INFO: v4.2.0
+2025-11-26 06:59:23 __main__[178] - INFO: Authors: kyb3r, fourjr, Taaku18
+2025-11-26 06:59:23 __main__[179] - INFO: -------------------------
+2025-11-26 06:59:23 __main__[180] - INFO: discord.py: v2.6.3
+2025-11-26 06:59:23 __main__[181] - INFO: -------------------------
+2025-11-26 06:59:23 __main__[226] - INFO: Starting bot without presence intent.
+2025-11-26 06:59:23 discord.client[666] - INFO: logging in using static token
+2025-11-26 06:59:24 discord.gateway[570] - INFO: Shard ID None has connected to Gateway (Session ID: 45d7d1bffb8f93d3530bd6eaa99b1687).
+2025-11-26 06:59:24 core.clients[442] - WARNING: You're using the old config MONGO_URI, consider switching to the new CONNECTION_URI config.
+2025-11-26 06:59:26 cogs.utility[638] - INFO: -------------------------
+2025-11-26 06:59:26 cogs.utility[649] - INFO: No activity has been set.
+2025-11-26 06:59:26 cogs.utility[654] - INFO: No status has been set.
+2025-11-26 06:59:26 __main__[535] - INFO: -------------------------
+2025-11-26 06:59:26 __main__[537] - INFO: Logged in as: OwlMail#2978
+2025-11-26 06:59:26 __main__[538] - INFO: Bot ID: 1443158095588229150
+2025-11-26 06:59:26 __main__[542] - INFO: Owners: vapingpixie
+2025-11-26 06:59:26 __main__[543] - INFO: Prefix: ?
+2025-11-26 06:59:26 __main__[544] - INFO: Guild Name: Pixie's Games
+2025-11-26 06:59:26 __main__[545] - INFO: Guild ID: 684558701721419779
+2025-11-26 06:59:26 __main__[548] - INFO: -------------------------
+2025-11-26 06:59:26 __main__[561] - INFO: There are 0 thread(s) pending to be closed.
+2025-11-26 06:59:26 __main__[562] - INFO: -------------------------
+2025-11-26 07:15:29 __main__[276] - INFO: Received signal to terminate bot and event loop.
+2025-11-26 07:15:29 __main__[278] - INFO: Cleaning up tasks.
+2025-11-26 07:15:29 __main__[284] - INFO: Closing the event loop.
+2025-11-26 07:15:34 core.models[324] - INFO: Discord logging level: INFO.
+2025-11-26 07:15:34 __main__[173] - INFO: -------------------------
+2025-11-26 07:15:34 __main__[174] - INFO: â”Œâ”¬â”â”Œâ”€â”â”Œâ”¬â”â”Œâ”¬â”â”Œâ”€â”â”¬â”¬
+2025-11-26 07:15:34 __main__[175] - INFO: â”‚â”‚â”‚â”‚ â”‚ â”‚â”‚â”‚â”‚â”‚â”œâ”€â”¤â”‚â”‚
+2025-11-26 07:15:34 __main__[176] - INFO: â”´ â”´â””â”€â”˜â”€â”´â”˜â”´ â”´â”´ â”´â”´â”´â”€â”˜
+2025-11-26 07:15:34 __main__[177] - INFO: v4.2.0
+2025-11-26 07:15:34 __main__[178] - INFO: Authors: kyb3r, fourjr, Taaku18
+2025-11-26 07:15:34 __main__[179] - INFO: -------------------------
+2025-11-26 07:15:34 __main__[180] - INFO: discord.py: v2.6.3
+2025-11-26 07:15:34 __main__[181] - INFO: -------------------------
+2025-11-26 07:15:34 __main__[226] - INFO: Starting bot without presence intent.
+2025-11-26 07:15:34 discord.client[666] - INFO: logging in using static token
+2025-11-26 07:15:35 discord.gateway[570] - INFO: Shard ID None has connected to Gateway (Session ID: 3799d8c31827417dd702d7ee84fea853).
+2025-11-26 07:15:35 core.clients[442] - WARNING: You're using the old config MONGO_URI, consider switching to the new CONNECTION_URI config.
+2025-11-26 07:15:37 cogs.utility[638] - INFO: -------------------------
+2025-11-26 07:15:37 cogs.utility[649] - INFO: No activity has been set.
+2025-11-26 07:15:37 cogs.utility[654] - INFO: No status has been set.
+2025-11-26 07:15:37 __main__[535] - INFO: -------------------------
+2025-11-26 07:15:37 __main__[537] - INFO: Logged in as: OwlMail#2978
+2025-11-26 07:15:37 __main__[538] - INFO: Bot ID: 1443158095588229150
+2025-11-26 07:15:37 __main__[542] - INFO: Owners: vapingpixie
+2025-11-26 07:15:37 __main__[543] - INFO: Prefix: ?
+2025-11-26 07:15:37 __main__[544] - INFO: Guild Name: Pixie's Games
+2025-11-26 07:15:37 __main__[545] - INFO: Guild ID: 684558701721419779
+2025-11-26 07:15:37 __main__[548] - INFO: -------------------------
+2025-11-26 07:15:37 __main__[561] - INFO: There are 0 thread(s) pending to be closed.
+2025-11-26 07:15:37 __main__[562] - INFO: -------------------------
+2025-11-26 07:22:23 __main__[276] - INFO: Received signal to terminate bot and event loop.
+2025-11-26 07:22:23 __main__[278] - INFO: Cleaning up tasks.
+2025-11-26 07:22:23 __main__[284] - INFO: Closing the event loop.
+2025-11-26 07:22:28 core.models[324] - INFO: Discord logging level: INFO.
+2025-11-26 07:22:28 __main__[173] - INFO: -------------------------
+2025-11-26 07:22:28 __main__[174] - INFO: â”Œâ”¬â”â”Œâ”€â”â”Œâ”¬â”â”Œâ”¬â”â”Œâ”€â”â”¬â”¬
+2025-11-26 07:22:28 __main__[175] - INFO: â”‚â”‚â”‚â”‚ â”‚ â”‚â”‚â”‚â”‚â”‚â”œâ”€â”¤â”‚â”‚
+2025-11-26 07:22:28 __main__[176] - INFO: â”´ â”´â””â”€â”˜â”€â”´â”˜â”´ â”´â”´ â”´â”´â”´â”€â”˜
+2025-11-26 07:22:28 __main__[177] - INFO: v4.2.0
+2025-11-26 07:22:28 __main__[178] - INFO: Authors: kyb3r, fourjr, Taaku18
+2025-11-26 07:22:28 __main__[179] - INFO: -------------------------
+2025-11-26 07:22:28 __main__[180] - INFO: discord.py: v2.6.3
+2025-11-26 07:22:28 __main__[181] - INFO: -------------------------
+2025-11-26 07:22:28 __main__[226] - INFO: Starting bot without presence intent.
+2025-11-26 07:22:28 discord.client[666] - INFO: logging in using static token
+2025-11-26 07:22:29 discord.gateway[570] - INFO: Shard ID None has connected to Gateway (Session ID: a92082448938bff7902d44c9aabf526c).
+2025-11-26 07:22:29 core.clients[442] - WARNING: You're using the old config MONGO_URI, consider switching to the new CONNECTION_URI config.
+2025-11-26 07:22:31 cogs.utility[638] - INFO: -------------------------
+2025-11-26 07:22:31 cogs.utility[649] - INFO: No activity has been set.
+2025-11-26 07:22:31 cogs.utility[654] - INFO: No status has been set.
+2025-11-26 07:22:31 __main__[535] - INFO: -------------------------
+2025-11-26 07:22:31 __main__[537] - INFO: Logged in as: OwlMail#2978
+2025-11-26 07:22:31 __main__[538] - INFO: Bot ID: 1443158095588229150
+2025-11-26 07:22:31 __main__[542] - INFO: Owners: vapingpixie
+2025-11-26 07:22:31 __main__[543] - INFO: Prefix: ?
+2025-11-26 07:22:31 __main__[544] - INFO: Guild Name: Pixie's Games
+2025-11-26 07:22:31 __main__[545] - INFO: Guild ID: 684558701721419779
+2025-11-26 07:22:31 __main__[548] - INFO: -------------------------
+2025-11-26 07:22:31 __main__[561] - INFO: There are 0 thread(s) pending to be closed.
+2025-11-26 07:22:31 __main__[562] - INFO: -------------------------
+2025-11-26 07:24:29 __main__[276] - INFO: Received signal to terminate bot and event loop.
+2025-11-26 07:24:29 __main__[278] - INFO: Cleaning up tasks.
+2025-11-26 07:24:29 __main__[284] - INFO: Closing the event loop.
+2025-11-26 07:24:34 core.models[324] - INFO: Discord logging level: INFO.
+2025-11-26 07:24:34 __main__[173] - INFO: -------------------------
+2025-11-26 07:24:34 __main__[174] - INFO: â”Œâ”¬â”â”Œâ”€â”â”Œâ”¬â”â”Œâ”¬â”â”Œâ”€â”â”¬â”¬
+2025-11-26 07:24:34 __main__[175] - INFO: â”‚â”‚â”‚â”‚ â”‚ â”‚â”‚â”‚â”‚â”‚â”œâ”€â”¤â”‚â”‚
+2025-11-26 07:24:34 __main__[176] - INFO: â”´ â”´â””â”€â”˜â”€â”´â”˜â”´ â”´â”´ â”´â”´â”´â”€â”˜
+2025-11-26 07:24:34 __main__[177] - INFO: v4.2.0
+2025-11-26 07:24:34 __main__[178] - INFO: Authors: kyb3r, fourjr, Taaku18
+2025-11-26 07:24:34 __main__[179] - INFO: -------------------------
+2025-11-26 07:24:34 __main__[180] - INFO: discord.py: v2.6.3
+2025-11-26 07:24:34 __main__[181] - INFO: -------------------------
+2025-11-26 07:24:34 __main__[226] - INFO: Starting bot without presence intent.
+2025-11-26 07:24:34 discord.client[666] - INFO: logging in using static token
+2025-11-26 07:24:35 discord.gateway[570] - INFO: Shard ID None has connected to Gateway (Session ID: 6cb1dfa4ac7646960776ed004d281988).
+2025-11-26 07:24:35 core.clients[442] - WARNING: You're using the old config MONGO_URI, consider switching to the new CONNECTION_URI config.
+2025-11-26 07:24:37 cogs.utility[638] - INFO: -------------------------
+2025-11-26 07:24:37 cogs.utility[649] - INFO: No activity has been set.
+2025-11-26 07:24:37 cogs.utility[654] - INFO: No status has been set.
+2025-11-26 07:24:37 __main__[535] - INFO: -------------------------
+2025-11-26 07:24:37 __main__[537] - INFO: Logged in as: OwlMail#2978
+2025-11-26 07:24:37 __main__[538] - INFO: Bot ID: 1443158095588229150
+2025-11-26 07:24:37 __main__[542] - INFO: Owners: vapingpixie
+2025-11-26 07:24:37 __main__[543] - INFO: Prefix: ?
+2025-11-26 07:24:37 __main__[544] - INFO: Guild Name: Pixie's Games
+2025-11-26 07:24:37 __main__[545] - INFO: Guild ID: 684558701721419779
+2025-11-26 07:24:37 __main__[548] - INFO: -------------------------
+2025-11-26 07:24:37 __main__[561] - INFO: There are 0 thread(s) pending to be closed.
+2025-11-26 07:24:37 __main__[562] - INFO: -------------------------
+2025-11-26 07:30:30 __main__[276] - INFO: Received signal to terminate bot and event loop.
+2025-11-26 07:30:30 __main__[278] - INFO: Cleaning up tasks.
+2025-11-26 07:30:30 __main__[284] - INFO: Closing the event loop.
+2025-11-26 07:30:35 core.models[324] - INFO: Discord logging level: INFO.
+2025-11-26 07:30:35 __main__[173] - INFO: -------------------------
+2025-11-26 07:30:35 __main__[174] - INFO: â”Œâ”¬â”â”Œâ”€â”â”Œâ”¬â”â”Œâ”¬â”â”Œâ”€â”â”¬â”¬
+2025-11-26 07:30:35 __main__[175] - INFO: â”‚â”‚â”‚â”‚ â”‚ â”‚â”‚â”‚â”‚â”‚â”œâ”€â”¤â”‚â”‚
+2025-11-26 07:30:35 __main__[176] - INFO: â”´ â”´â””â”€â”˜â”€â”´â”˜â”´ â”´â”´ â”´â”´â”´â”€â”˜
+2025-11-26 07:30:35 __main__[177] - INFO: v4.2.0
+2025-11-26 07:30:35 __main__[178] - INFO: Authors: kyb3r, fourjr, Taaku18
+2025-11-26 07:30:35 __main__[179] - INFO: -------------------------
+2025-11-26 07:30:35 __main__[180] - INFO: discord.py: v2.6.3
+2025-11-26 07:30:35 __main__[181] - INFO: -------------------------
+2025-11-26 07:30:35 __main__[226] - INFO: Starting bot without presence intent.
+2025-11-26 07:30:35 discord.client[666] - INFO: logging in using static token
+2025-11-26 07:30:36 discord.gateway[570] - INFO: Shard ID None has connected to Gateway (Session ID: c2ff7feca2f483910e14be0db841bca2).
+2025-11-26 07:30:36 core.clients[442] - WARNING: You're using the old config MONGO_URI, consider switching to the new CONNECTION_URI config.
+2025-11-26 07:30:38 cogs.utility[638] - INFO: -------------------------
+2025-11-26 07:30:38 cogs.utility[649] - INFO: No activity has been set.
+2025-11-26 07:30:38 cogs.utility[654] - INFO: No status has been set.
+2025-11-26 07:30:38 __main__[535] - INFO: -------------------------
+2025-11-26 07:30:38 __main__[537] - INFO: Logged in as: OwlMail#2978
+2025-11-26 07:30:38 __main__[538] - INFO: Bot ID: 1443158095588229150
+2025-11-26 07:30:38 __main__[542] - INFO: Owners: vapingpixie
+2025-11-26 07:30:38 __main__[543] - INFO: Prefix: ?
+2025-11-26 07:30:38 __main__[544] - INFO: Guild Name: Pixie's Games
+2025-11-26 07:30:38 __main__[545] - INFO: Guild ID: 684558701721419779
+2025-11-26 07:30:38 __main__[548] - INFO: -------------------------
+2025-11-26 07:30:38 __main__[561] - INFO: There are 0 thread(s) pending to be closed.
+2025-11-26 07:30:38 __main__[562] - INFO: -------------------------
+2025-11-26 07:31:06 __main__[276] - INFO: Received signal to terminate bot and event loop.
+2025-11-26 07:31:06 __main__[278] - INFO: Cleaning up tasks.
+2025-11-26 07:31:06 __main__[284] - INFO: Closing the event loop.
+2025-11-26 07:31:11 core.models[324] - INFO: Discord logging level: INFO.
+2025-11-26 07:31:11 __main__[173] - INFO: -------------------------
+2025-11-26 07:31:11 __main__[174] - INFO: â”Œâ”¬â”â”Œâ”€â”â”Œâ”¬â”â”Œâ”¬â”â”Œâ”€â”â”¬â”¬
+2025-11-26 07:31:11 __main__[175] - INFO: â”‚â”‚â”‚â”‚ â”‚ â”‚â”‚â”‚â”‚â”‚â”œâ”€â”¤â”‚â”‚
+2025-11-26 07:31:11 __main__[176] - INFO: â”´ â”´â””â”€â”˜â”€â”´â”˜â”´ â”´â”´ â”´â”´â”´â”€â”˜
+2025-11-26 07:31:11 __main__[177] - INFO: v4.2.0
+2025-11-26 07:31:11 __main__[178] - INFO: Authors: kyb3r, fourjr, Taaku18
+2025-11-26 07:31:11 __main__[179] - INFO: -------------------------
+2025-11-26 07:31:11 __main__[180] - INFO: discord.py: v2.6.3
+2025-11-26 07:31:11 __main__[181] - INFO: -------------------------
+2025-11-26 07:31:11 __main__[226] - INFO: Starting bot without presence intent.
+2025-11-26 07:31:11 discord.client[666] - INFO: logging in using static token
+2025-11-26 07:31:12 discord.gateway[570] - INFO: Shard ID None has connected to Gateway (Session ID: 4ca27cfd12a249465b897d222bd55e13).
+2025-11-26 07:31:12 core.clients[442] - WARNING: You're using the old config MONGO_URI, consider switching to the new CONNECTION_URI config.
+2025-11-26 07:31:14 cogs.utility[638] - INFO: -------------------------
+2025-11-26 07:31:14 cogs.utility[649] - INFO: No activity has been set.
+2025-11-26 07:31:14 cogs.utility[654] - INFO: No status has been set.
+2025-11-26 07:31:14 __main__[535] - INFO: -------------------------
+2025-11-26 07:31:14 __main__[537] - INFO: Logged in as: OwlMail#2978
+2025-11-26 07:31:14 __main__[538] - INFO: Bot ID: 1443158095588229150
+2025-11-26 07:31:14 __main__[542] - INFO: Owners: vapingpixie
+2025-11-26 07:31:14 __main__[543] - INFO: Prefix: ?
+2025-11-26 07:31:14 __main__[544] - INFO: Guild Name: Pixie's Games
+2025-11-26 07:31:14 __main__[545] - INFO: Guild ID: 684558701721419779
+2025-11-26 07:31:14 __main__[548] - INFO: -------------------------
+2025-11-26 07:31:14 __main__[561] - INFO: There are 0 thread(s) pending to be closed.
+2025-11-26 07:31:14 __main__[562] - INFO: -------------------------
+2025-11-26 07:35:22 __main__[276] - INFO: Received signal to terminate bot and event loop.
+2025-11-26 07:35:22 __main__[278] - INFO: Cleaning up tasks.
+2025-11-26 07:35:22 __main__[284] - INFO: Closing the event loop.
+2025-11-26 07:35:27 core.models[324] - INFO: Discord logging level: INFO.
+2025-11-26 07:35:27 __main__[173] - INFO: -------------------------
+2025-11-26 07:35:27 __main__[174] - INFO: â”Œâ”¬â”â”Œâ”€â”â”Œâ”¬â”â”Œâ”¬â”â”Œâ”€â”â”¬â”¬
+2025-11-26 07:35:27 __main__[175] - INFO: â”‚â”‚â”‚â”‚ â”‚ â”‚â”‚â”‚â”‚â”‚â”œâ”€â”¤â”‚â”‚
+2025-11-26 07:35:27 __main__[176] - INFO: â”´ â”´â””â”€â”˜â”€â”´â”˜â”´ â”´â”´ â”´â”´â”´â”€â”˜
+2025-11-26 07:35:27 __main__[177] - INFO: v4.2.0
+2025-11-26 07:35:27 __main__[178] - INFO: Authors: kyb3r, fourjr, Taaku18
+2025-11-26 07:35:27 __main__[179] - INFO: -------------------------
+2025-11-26 07:35:27 __main__[180] - INFO: discord.py: v2.6.3
+2025-11-26 07:35:27 __main__[181] - INFO: -------------------------
+2025-11-26 07:35:27 __main__[226] - INFO: Starting bot without presence intent.
+2025-11-26 07:35:27 discord.client[666] - INFO: logging in using static token
+2025-11-26 07:35:30 discord.gateway[570] - INFO: Shard ID None has connected to Gateway (Session ID: ac7a853dcdaeaa8fe10dd6455e951995).
+2025-11-26 07:35:32 cogs.utility[638] - INFO: -------------------------
+2025-11-26 07:35:32 cogs.utility[649] - INFO: No activity has been set.
+2025-11-26 07:35:32 cogs.utility[654] - INFO: No status has been set.
+2025-11-26 07:35:32 __main__[535] - INFO: -------------------------
+2025-11-26 07:35:32 __main__[537] - INFO: Logged in as: OwlMail#2978
+2025-11-26 07:35:32 __main__[538] - INFO: Bot ID: 1443158095588229150
+2025-11-26 07:35:32 __main__[542] - INFO: Owners: vapingpixie
+2025-11-26 07:35:32 __main__[543] - INFO: Prefix: ?
+2025-11-26 07:35:32 __main__[544] - INFO: Guild Name: Pixie's Games
+2025-11-26 07:35:32 __main__[545] - INFO: Guild ID: 684558701721419779
+2025-11-26 07:35:32 __main__[548] - INFO: -------------------------
+2025-11-26 07:35:32 __main__[561] - INFO: There are 0 thread(s) pending to be closed.
+2025-11-26 07:35:32 __main__[562] - INFO: -------------------------
+2025-11-26 07:44:48 __main__[276] - INFO: Received signal to terminate bot and event loop.
+2025-11-26 07:44:48 __main__[278] - INFO: Cleaning up tasks.
+2025-11-26 07:44:48 __main__[284] - INFO: Closing the event loop.
+2025-11-26 07:51:54 core.models[324] - INFO: Discord logging level: INFO.
+2025-11-26 07:51:54 __main__[173] - INFO: -------------------------
+2025-11-26 07:51:54 __main__[174] - INFO: â”Œâ”¬â”â”Œâ”€â”â”Œâ”¬â”â”Œâ”¬â”â”Œâ”€â”â”¬â”¬
+2025-11-26 07:51:54 __main__[175] - INFO: â”‚â”‚â”‚â”‚ â”‚ â”‚â”‚â”‚â”‚â”‚â”œâ”€â”¤â”‚â”‚
+2025-11-26 07:51:54 __main__[176] - INFO: â”´ â”´â””â”€â”˜â”€â”´â”˜â”´ â”´â”´ â”´â”´â”´â”€â”˜
+2025-11-26 07:51:54 __main__[177] - INFO: v4.2.0
+2025-11-26 07:51:54 __main__[178] - INFO: Authors: kyb3r, fourjr, Taaku18
+2025-11-26 07:51:54 __main__[179] - INFO: -------------------------
+2025-11-26 07:51:54 __main__[180] - INFO: discord.py: v2.6.3
+2025-11-26 07:51:54 __main__[181] - INFO: -------------------------
+2025-11-26 07:51:54 __main__[226] - INFO: Starting bot without presence intent.
+2025-11-26 07:51:54 discord.client[666] - INFO: logging in using static token
+2025-11-26 07:51:55 discord.gateway[570] - INFO: Shard ID None has connected to Gateway (Session ID: b0e4f7e1aa38d46a08dbb7ce6878c62c).
+2025-11-26 07:51:57 cogs.utility[638] - INFO: -------------------------
+2025-11-26 07:51:57 cogs.utility[649] - INFO: No activity has been set.
+2025-11-26 07:51:57 cogs.utility[654] - INFO: No status has been set.
+2025-11-26 07:51:57 __main__[535] - INFO: -------------------------
+2025-11-26 07:51:57 __main__[537] - INFO: Logged in as: OwlMail#2978
+2025-11-26 07:51:57 __main__[538] - INFO: Bot ID: 1443158095588229150
+2025-11-26 07:51:57 __main__[542] - INFO: Owners: vapingpixie
+2025-11-26 07:51:57 __main__[543] - INFO: Prefix: ?
+2025-11-26 07:51:57 __main__[544] - INFO: Guild Name: Pixie's Games
+2025-11-26 07:51:57 __main__[545] - INFO: Guild ID: 684558701721419779
+2025-11-26 07:51:57 __main__[548] - INFO: -------------------------
+2025-11-26 07:51:57 __main__[561] - INFO: There are 0 thread(s) pending to be closed.
+2025-11-26 07:51:57 __main__[562] - INFO: -------------------------
+2025-11-26 07:56:45 core.models[324] - INFO: Discord logging level: INFO.
+2025-11-26 07:56:45 __main__[173] - INFO: -------------------------
+2025-11-26 07:56:45 __main__[174] - INFO: â”Œâ”¬â”â”Œâ”€â”â”Œâ”¬â”â”Œâ”¬â”â”Œâ”€â”â”¬â”¬
+2025-11-26 07:56:45 __main__[175] - INFO: â”‚â”‚â”‚â”‚ â”‚ â”‚â”‚â”‚â”‚â”‚â”œâ”€â”¤â”‚â”‚
+2025-11-26 07:56:45 __main__[176] - INFO: â”´ â”´â””â”€â”˜â”€â”´â”˜â”´ â”´â”´ â”´â”´â”´â”€â”˜
+2025-11-26 07:56:45 __main__[177] - INFO: v4.2.0
+2025-11-26 07:56:45 __main__[178] - INFO: Authors: kyb3r, fourjr, Taaku18
+2025-11-26 07:56:45 __main__[179] - INFO: -------------------------
+2025-11-26 07:56:45 __main__[180] - INFO: discord.py: v2.6.3
+2025-11-26 07:56:45 __main__[181] - INFO: -------------------------
+2025-11-26 07:56:45 __main__[226] - INFO: Starting bot without presence intent.
+2025-11-26 07:56:45 discord.client[666] - INFO: logging in using static token
+2025-11-26 07:56:48 discord.gateway[570] - INFO: Shard ID None has connected to Gateway (Session ID: c6b56bc572739b13e65fe2dcbe7fd8ec).
+2025-11-26 07:56:50 cogs.utility[638] - INFO: -------------------------
+2025-11-26 07:56:50 cogs.utility[649] - INFO: No activity has been set.
+2025-11-26 07:56:50 cogs.utility[654] - INFO: No status has been set.
+2025-11-26 07:56:50 __main__[535] - INFO: -------------------------
+2025-11-26 07:56:50 __main__[537] - INFO: Logged in as: OwlMail#2978
+2025-11-26 07:56:50 __main__[538] - INFO: Bot ID: 1443158095588229150
+2025-11-26 07:56:50 __main__[542] - INFO: Owners: vapingpixie
+2025-11-26 07:56:50 __main__[543] - INFO: Prefix: ?
+2025-11-26 07:56:50 __main__[544] - INFO: Guild Name: Pixie's Games
+2025-11-26 07:56:50 __main__[545] - INFO: Guild ID: 684558701721419779
+2025-11-26 07:56:50 __main__[548] - INFO: -------------------------
+2025-11-26 07:56:50 __main__[561] - INFO: There are 0 thread(s) pending to be closed.
+2025-11-26 07:56:50 __main__[562] - INFO: -------------------------
+2025-11-26 08:01:07 core.models[324] - INFO: Discord logging level: INFO.
+2025-11-26 08:01:07 __main__[173] - INFO: -------------------------
+2025-11-26 08:01:07 __main__[174] - INFO: â”Œâ”¬â”â”Œâ”€â”â”Œâ”¬â”â”Œâ”¬â”â”Œâ”€â”â”¬â”¬
+2025-11-26 08:01:07 __main__[175] - INFO: â”‚â”‚â”‚â”‚ â”‚ â”‚â”‚â”‚â”‚â”‚â”œâ”€â”¤â”‚â”‚
+2025-11-26 08:01:07 __main__[176] - INFO: â”´ â”´â””â”€â”˜â”€â”´â”˜â”´ â”´â”´ â”´â”´â”´â”€â”˜
+2025-11-26 08:01:07 __main__[177] - INFO: v4.2.0
+2025-11-26 08:01:07 __main__[178] - INFO: Authors: kyb3r, fourjr, Taaku18
+2025-11-26 08:01:07 __main__[179] - INFO: -------------------------
+2025-11-26 08:01:07 __main__[180] - INFO: discord.py: v2.6.3
+2025-11-26 08:01:07 __main__[181] - INFO: -------------------------
+2025-11-26 08:01:07 __main__[226] - INFO: Starting bot without presence intent.
+2025-11-26 08:01:07 discord.client[666] - INFO: logging in using static token
+2025-11-26 08:01:08 discord.gateway[570] - INFO: Shard ID None has connected to Gateway (Session ID: b03186673b791d569db1439d2da0a55b).
+2025-11-26 08:01:10 cogs.utility[638] - INFO: -------------------------
+2025-11-26 08:01:10 cogs.utility[649] - INFO: No activity has been set.
+2025-11-26 08:01:10 cogs.utility[654] - INFO: No status has been set.
+2025-11-26 08:01:10 __main__[535] - INFO: -------------------------
+2025-11-26 08:01:10 __main__[537] - INFO: Logged in as: OwlMail#2978
+2025-11-26 08:01:10 __main__[538] - INFO: Bot ID: 1443158095588229150
+2025-11-26 08:01:10 __main__[542] - INFO: Owners: vapingpixie
+2025-11-26 08:01:10 __main__[543] - INFO: Prefix: ?
+2025-11-26 08:01:10 __main__[544] - INFO: Guild Name: Pixie's Games
+2025-11-26 08:01:10 __main__[545] - INFO: Guild ID: 684558701721419779
+2025-11-26 08:01:10 __main__[548] - INFO: -------------------------
+2025-11-26 08:01:10 __main__[561] - INFO: There are 0 thread(s) pending to be closed.
+2025-11-26 08:01:10 __main__[562] - INFO: -------------------------
+2025-11-26 08:11:35 __main__[276] - INFO: Received signal to terminate bot and event loop.
+2025-11-26 08:11:35 __main__[278] - INFO: Cleaning up tasks.
+2025-11-26 08:11:35 __main__[284] - INFO: Closing the event loop.
+2025-11-26 08:11:38 core.models[324] - INFO: Discord logging level: INFO.
+2025-11-26 08:11:38 __main__[173] - INFO: -------------------------
+2025-11-26 08:11:38 __main__[174] - INFO: â”Œâ”¬â”â”Œâ”€â”â”Œâ”¬â”â”Œâ”¬â”â”Œâ”€â”â”¬â”¬
+2025-11-26 08:11:38 __main__[175] - INFO: â”‚â”‚â”‚â”‚ â”‚ â”‚â”‚â”‚â”‚â”‚â”œâ”€â”¤â”‚â”‚
+2025-11-26 08:11:38 __main__[176] - INFO: â”´ â”´â””â”€â”˜â”€â”´â”˜â”´ â”´â”´ â”´â”´â”´â”€â”˜
+2025-11-26 08:11:38 __main__[177] - INFO: v4.2.0
+2025-11-26 08:11:38 __main__[178] - INFO: Authors: kyb3r, fourjr, Taaku18
+2025-11-26 08:11:38 __main__[179] - INFO: -------------------------
+2025-11-26 08:11:38 __main__[180] - INFO: discord.py: v2.6.3
+2025-11-26 08:11:38 __main__[181] - INFO: -------------------------
+2025-11-26 08:11:38 __main__[226] - INFO: Starting bot without presence intent.
+2025-11-26 08:11:38 discord.client[666] - INFO: logging in using static token
+2025-11-26 08:11:39 discord.gateway[570] - INFO: Shard ID None has connected to Gateway (Session ID: bfd9117129103d287c00924a23354c0a).
+2025-11-26 08:11:41 cogs.utility[638] - INFO: -------------------------
+2025-11-26 08:11:41 cogs.utility[649] - INFO: No activity has been set.
+2025-11-26 08:11:41 cogs.utility[654] - INFO: No status has been set.
+2025-11-26 08:11:41 __main__[535] - INFO: -------------------------
+2025-11-26 08:11:41 __main__[537] - INFO: Logged in as: OwlMail#2978
+2025-11-26 08:11:41 __main__[538] - INFO: Bot ID: 1443158095588229150
+2025-11-26 08:11:41 __main__[542] - INFO: Owners: vapingpixie
+2025-11-26 08:11:41 __main__[543] - INFO: Prefix: ?
+2025-11-26 08:11:41 __main__[544] - INFO: Guild Name: Pixie's Games
+2025-11-26 08:11:41 __main__[545] - INFO: Guild ID: 684558701721419779
+2025-11-26 08:11:41 __main__[548] - INFO: -------------------------
+2025-11-26 08:11:41 __main__[561] - INFO: There are 0 thread(s) pending to be closed.
+2025-11-26 08:11:41 __main__[562] - INFO: -------------------------
+2025-11-26 08:17:06 discord.gateway[575] - INFO: Shard ID None has successfully RESUMED session bfd9117129103d287c00924a23354c0a.
+2025-11-26 08:41:41 cogs.utility[657] - INFO: Starting presence loop.
+2025-11-26 08:47:05 __main__[276] - INFO: Received signal to terminate bot and event loop.
+2025-11-26 08:47:05 __main__[278] - INFO: Cleaning up tasks.
+2025-11-26 08:47:05 __main__[284] - INFO: Closing the event loop.
+2025-11-26 08:47:08 core.models[324] - INFO: Discord logging level: INFO.
+2025-11-26 08:47:08 __main__[173] - INFO: -------------------------
+2025-11-26 08:47:08 __main__[174] - INFO: â”Œâ”¬â”â”Œâ”€â”â”Œâ”¬â”â”Œâ”¬â”â”Œâ”€â”â”¬â”¬
+2025-11-26 08:47:08 __main__[175] - INFO: â”‚â”‚â”‚â”‚ â”‚ â”‚â”‚â”‚â”‚â”‚â”œâ”€â”¤â”‚â”‚
+2025-11-26 08:47:08 __main__[176] - INFO: â”´ â”´â””â”€â”˜â”€â”´â”˜â”´ â”´â”´ â”´â”´â”´â”€â”˜
+2025-11-26 08:47:08 __main__[177] - INFO: v4.2.0
+2025-11-26 08:47:08 __main__[178] - INFO: Authors: kyb3r, fourjr, Taaku18
+2025-11-26 08:47:08 __main__[179] - INFO: -------------------------
+2025-11-26 08:47:08 __main__[180] - INFO: discord.py: v2.6.3
+2025-11-26 08:47:08 __main__[181] - INFO: -------------------------
+2025-11-26 08:47:08 __main__[226] - INFO: Starting bot without presence intent.
+2025-11-26 08:47:08 discord.client[666] - INFO: logging in using static token
+2025-11-26 08:47:09 discord.gateway[570] - INFO: Shard ID None has connected to Gateway (Session ID: 62edd1a385c8f944c069c5812d39707e).
+2025-11-26 08:47:11 cogs.utility[638] - INFO: -------------------------
+2025-11-26 08:47:11 cogs.utility[649] - INFO: No activity has been set.
+2025-11-26 08:47:11 cogs.utility[654] - INFO: No status has been set.
+2025-11-26 08:47:11 __main__[535] - INFO: -------------------------
+2025-11-26 08:47:11 __main__[537] - INFO: Logged in as: OwlMail#2978
+2025-11-26 08:47:11 __main__[538] - INFO: Bot ID: 1443158095588229150
+2025-11-26 08:47:11 __main__[542] - INFO: Owners: vapingpixie
+2025-11-26 08:47:11 __main__[543] - INFO: Prefix: ?
+2025-11-26 08:47:11 __main__[544] - INFO: Guild Name: Pixie's Games
+2025-11-26 08:47:11 __main__[545] - INFO: Guild ID: 684558701721419779
+2025-11-26 08:47:11 __main__[548] - INFO: -------------------------
+2025-11-26 08:47:11 __main__[561] - INFO: There are 0 thread(s) pending to be closed.
+2025-11-26 08:47:11 __main__[562] - INFO: -------------------------
+2025-11-26 09:02:00 core.models[324] - INFO: Discord logging level: INFO.
+2025-11-26 09:02:00 __main__[173] - INFO: -------------------------
+2025-11-26 09:02:00 __main__[174] - INFO: â”Œâ”¬â”â”Œâ”€â”â”Œâ”¬â”â”Œâ”¬â”â”Œâ”€â”â”¬â”¬
+2025-11-26 09:02:00 __main__[175] - INFO: â”‚â”‚â”‚â”‚ â”‚ â”‚â”‚â”‚â”‚â”‚â”œâ”€â”¤â”‚â”‚
+2025-11-26 09:02:00 __main__[176] - INFO: â”´ â”´â””â”€â”˜â”€â”´â”˜â”´ â”´â”´ â”´â”´â”´â”€â”˜
+2025-11-26 09:02:00 __main__[177] - INFO: v4.2.0
+2025-11-26 09:02:00 __main__[178] - INFO: Authors: kyb3r, fourjr, Taaku18
+2025-11-26 09:02:00 __main__[179] - INFO: -------------------------
+2025-11-26 09:02:00 __main__[180] - INFO: discord.py: v2.6.3
+2025-11-26 09:02:00 __main__[181] - INFO: -------------------------
+2025-11-26 09:02:00 __main__[226] - INFO: Starting bot without presence intent.
+2025-11-26 09:02:00 discord.client[666] - INFO: logging in using static token
+2025-11-26 09:02:01 discord.gateway[570] - INFO: Shard ID None has connected to Gateway (Session ID: 4b0ead38873a2b4f0060a347adfa9b4c).
+2025-11-26 09:02:03 cogs.utility[638] - INFO: -------------------------
+2025-11-26 09:02:03 cogs.utility[649] - INFO: No activity has been set.
+2025-11-26 09:02:03 cogs.utility[654] - INFO: No status has been set.
+2025-11-26 09:02:03 __main__[535] - INFO: -------------------------
+2025-11-26 09:02:03 __main__[537] - INFO: Logged in as: OwlMail#2978
+2025-11-26 09:02:03 __main__[538] - INFO: Bot ID: 1443158095588229150
+2025-11-26 09:02:03 __main__[542] - INFO: Owners: vapingpixie
+2025-11-26 09:02:03 __main__[543] - INFO: Prefix: ?
+2025-11-26 09:02:03 __main__[544] - INFO: Guild Name: Pixie's Games
+2025-11-26 09:02:03 __main__[545] - INFO: Guild ID: 684558701721419779
+2025-11-26 09:02:03 __main__[548] - INFO: -------------------------
+2025-11-26 09:02:03 __main__[561] - INFO: There are 0 thread(s) pending to be closed.
+2025-11-26 09:02:03 __main__[562] - INFO: -------------------------
+2025-11-26 09:06:46 __main__[1714] - ERROR: Ignoring exception in on_message.
+2025-11-26 09:06:46 __main__[1715] - ERROR: Unexpected exception:
+Traceback (most recent call last):
+  File "C:\Python310\lib\site-packages\discord\client.py", line 504, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Owlmail\bot.py", line 1318, in on_message
+    await message.delete()
+  File "C:\Python310\lib\site-packages\discord\message.py", line 1308, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "C:\Python310\lib\site-packages\discord\http.py", line 769, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+2025-11-26 09:06:47 __main__[1714] - ERROR: Ignoring exception in on_message.
+2025-11-26 09:06:47 __main__[1715] - ERROR: Unexpected exception:
+Traceback (most recent call last):
+  File "C:\Python310\lib\site-packages\discord\client.py", line 504, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Owlmail\bot.py", line 1318, in on_message
+    await message.delete()
+  File "C:\Python310\lib\site-packages\discord\message.py", line 1308, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "C:\Python310\lib\site-packages\discord\http.py", line 769, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+2025-11-26 09:06:52 __main__[1765] - ERROR: Unexpected exception:
+Traceback (most recent call last):
+  File "C:\Python310\lib\site-packages\discord\ext\commands\core.py", line 266, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "E:\Owlmail\cogs\modmail.py", line 1718, in contact
+    await ctx.message.delete()
+  File "C:\Python310\lib\site-packages\discord\message.py", line 1308, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "C:\Python310\lib\site-packages\discord\http.py", line 769, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Python310\lib\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Python310\lib\site-packages\discord\ext\commands\core.py", line 1064, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Python310\lib\site-packages\discord\ext\commands\core.py", line 275, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NotFound: 404 Not Found (error code: 10008): Unknown Message
+2025-11-26 09:11:26 core.models[324] - INFO: Discord logging level: INFO.
+2025-11-26 09:11:26 __main__[173] - INFO: -------------------------
+2025-11-26 09:11:26 __main__[174] - INFO: â”Œâ”¬â”â”Œâ”€â”â”Œâ”¬â”â”Œâ”¬â”â”Œâ”€â”â”¬â”¬
+2025-11-26 09:11:26 __main__[175] - INFO: â”‚â”‚â”‚â”‚ â”‚ â”‚â”‚â”‚â”‚â”‚â”œâ”€â”¤â”‚â”‚
+2025-11-26 09:11:26 __main__[176] - INFO: â”´ â”´â””â”€â”˜â”€â”´â”˜â”´ â”´â”´ â”´â”´â”´â”€â”˜
+2025-11-26 09:11:26 __main__[177] - INFO: v4.2.0
+2025-11-26 09:11:26 __main__[178] - INFO: Authors: kyb3r, fourjr, Taaku18
+2025-11-26 09:11:26 __main__[179] - INFO: -------------------------
+2025-11-26 09:11:26 __main__[180] - INFO: discord.py: v2.6.3
+2025-11-26 09:11:26 __main__[181] - INFO: -------------------------
+2025-11-26 09:11:26 __main__[226] - INFO: Starting bot without presence intent.
+2025-11-26 09:11:26 discord.client[666] - INFO: logging in using static token
+2025-11-26 09:11:27 discord.gateway[570] - INFO: Shard ID None has connected to Gateway (Session ID: e6e459ae8eb763e7ae5d77b19c4ca8b6).
+2025-11-26 09:11:29 cogs.utility[638] - INFO: -------------------------
+2025-11-26 09:11:29 cogs.utility[649] - INFO: No activity has been set.
+2025-11-26 09:11:29 cogs.utility[654] - INFO: No status has been set.
+2025-11-26 09:11:29 __main__[535] - INFO: -------------------------
+2025-11-26 09:11:29 __main__[537] - INFO: Logged in as: OwlMail#2978
+2025-11-26 09:11:29 __main__[538] - INFO: Bot ID: 1443158095588229150
+2025-11-26 09:11:29 __main__[542] - INFO: Owners: vapingpixie
+2025-11-26 09:11:29 __main__[543] - INFO: Prefix: ?
+2025-11-26 09:11:29 __main__[544] - INFO: Guild Name: Pixie's Games
+2025-11-26 09:11:29 __main__[545] - INFO: Guild ID: 684558701721419779
+2025-11-26 09:11:29 __main__[548] - INFO: -------------------------
+2025-11-26 09:11:29 __main__[561] - INFO: There are 0 thread(s) pending to be closed.
+2025-11-26 09:11:29 __main__[562] - INFO: -------------------------
+2025-11-26 09:41:29 cogs.utility[657] - INFO: Starting presence loop.
+2025-11-26 12:02:18 discord.gateway[575] - INFO: Shard ID None has successfully RESUMED session e6e459ae8eb763e7ae5d77b19c4ca8b6.
+2025-11-26 15:35:28 discord.gateway[575] - INFO: Shard ID None has successfully RESUMED session e6e459ae8eb763e7ae5d77b19c4ca8b6.
+2025-11-26 18:53:16 discord.gateway[575] - INFO: Shard ID None has successfully RESUMED session e6e459ae8eb763e7ae5d77b19c4ca8b6.
+2025-11-26 19:52:09 discord.gateway[575] - INFO: Shard ID None has successfully RESUMED session e6e459ae8eb763e7ae5d77b19c4ca8b6.
+2025-11-26 21:00:55 __main__[276] - INFO: Received signal to terminate bot and event loop.
+2025-11-26 21:00:55 __main__[278] - INFO: Cleaning up tasks.
+2025-11-26 21:00:55 __main__[284] - INFO: Closing the event loop.
