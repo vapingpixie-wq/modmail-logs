@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Owlmail Logviewer</title>
+<style>
+body {
+    background:#0d1117;
+    color:#e6edf3;
+    font-family: Consolas, monospace;
+    padding:20px;
+}
+pre {
+    background:#161b22;
+    padding:15px;
+    border-radius:8px;
+    overflow-x:auto;
+    border:1px solid #30363d;
+}
+#log {
+    white-space: pre-wrap;
+    font-size:14px;
+}
+a { color:#58a6ff; }
+.header {
+    font-size:20px;
+    margin-bottom:20px;
+}
+</style>
+</head>
+<body>
+<div class="header">🦉 Owlmail Logviewer — GitHub Hosted</div>
+<div id="log">Loading log...</div>
+
+<script>
+const raw = window.location.pathname.split('/').pop();
+fetch(raw)
+    .then(r => r.text())
+    .then(t => {
+        document.getElementById("log").textContent = t;
+    })
+    .catch(() => {
+        document.getElementById("log").textContent = "❌ Failed to load log.";
+    });
+</script>
+</body>
+</html>
